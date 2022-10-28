@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+   project:
+      image: monitoring_universities
+      container_name: monitoring_universities_c
+      build: .
+      command: python3 ./main.py
+      volumes:
+         - .:/app
+      env_file: .env

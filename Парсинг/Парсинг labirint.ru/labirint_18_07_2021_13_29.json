@@ -1,0 +1,1082 @@
+[
+    {
+        "book_title": "Экстремальный Cи. Параллелизм, ООП и продвинутые возможности",
+        "book_author": "Амини Камран",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 2457,
+        "book_old_price": 3150,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Data Science для карьериста",
+        "book_author": "Нолис Жаклин",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1945,
+        "book_old_price": 2494,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Алгоритмы обработки текста. 125 задач с решениями",
+        "book_author": "Крошемор Максим",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1888,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Аналитика в Power BI с помощью R и Python",
+        "book_author": "Уэйд Райан",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2454,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 2. Системы и сети",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2832,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 3. Парадигмы",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2832,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "C#. Алгоритмы и структуры данных. Учебное пособие для вузов",
+        "book_author": "Тюкачев Николай Аркадьевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3326,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Python, например",
+        "book_author": "Лейси Никола",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 987,
+        "book_old_price": 1265,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Изучаем SQL. Генерация, выборка и обработка данных",
+        "book_author": "Болье Алан",
+        "book_publish": "Диалектика",
+        "book_new_price": 3200,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Знакомство с программированием на языке Processing",
+        "book_author": "Риас Кейси",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1415,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Arduino. Большая книга рецептов",
+        "book_author": "Марголис Майкл",
+        "book_publish": "BHV",
+        "book_new_price": 1960,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Active Directory глазами хакера",
+        "book_author": "Hacker Ralf",
+        "book_publish": "BHV: Глазами Хакера",
+        "book_new_price": 490,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Web-сервер глазами хакера",
+        "book_author": "Фленов Михаил Евгеньевич",
+        "book_publish": "BHV: Глазами Хакера",
+        "book_new_price": 700,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "JavaScript для глубокого обучения. TensorFlow.js",
+        "book_author": "Шолле Франсуа",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 2805,
+        "book_old_price": 3596,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Введение в язык Си++",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1363,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Оформление программного кода",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1136,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Профессиональное программирование на ассемблере x64 с расширениями AVX, AVX2 и AVX-512",
+        "book_author": "Куссвюрм Даниэль",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 3421,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Говорят, в IT много платят. Как построить успешную карьеру разработчика, оставаться востребованным",
+        "book_author": "Правдина Елена Владиславовна",
+        "book_publish": "Бомбора: Книги-драйверы",
+        "book_new_price": 819,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Безопасность контейнеров. Фундаментальный подход к защите контейнеризированных приложений",
+        "book_author": "Райс Лиз",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 1790,
+        "book_old_price": 2295,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Те же 10 вопросов через 20 лет. Офис и компьютер",
+        "book_author": "Проскурин Сергей Павлович",
+        "book_publish": "Деловой двор",
+        "book_new_price": 287,
+        "book_old_price": 368,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование. Введение в профессию. Том 1. Азы программирования",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2832,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Имитационное моделирование процессов и систем в АПК. Учебное пособие",
+        "book_author": "Худякова Елена Викторовна",
+        "book_publish": "Колос: Учебники и учебные пособия для студентов вузов",
+        "book_new_price": 2710,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "ВОСХОД программиста",
+        "book_author": "Земцов А. Н.",
+        "book_publish": "Деловой двор: Хочу в СССР",
+        "book_new_price": 817,
+        "book_old_price": 1047,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "JavaScript с нуля",
+        "book_author": "Чиннатамби Кирупа",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1223,
+        "book_old_price": 1568,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Наглядный CSS",
+        "book_author": "Сидельников Грег",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1112,
+        "book_old_price": 1425,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Scala. Профессиональное программирование",
+        "book_author": "Одерски Мартин",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 4219,
+        "book_old_price": 5409,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Основы разработки iOS-приложений на C# с помощью Xamarin. Учебное пособие для вузов",
+        "book_author": "Умрихин Евгений Дмитриевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3129,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Основы разработки iOS-приложений на C# с помощью Xamarin.СПО",
+        "book_author": "Умрихин Евгений Дмитриевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2982,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование.Сборник задач.СПО",
+        "book_author": "Батасова Валентина Сергеевна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1590,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование на ассемблере х64. От начального уровня до профессионального использования AVX64",
+        "book_author": "Йо Ван Гуй",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2040,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Обработка и представление данных в MS Excel. СПО",
+        "book_author": "Бурнаева Эльфия Гарифовна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1173,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Вычисления в кольцах некоммутативных многочленов",
+        "book_author": "Цирулик Владимир Григорьевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3230,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Веб-дизайн для начинающих. HTML, CSS, JavaScript и веб-графика",
+        "book_author": "Роббинс Дженнифер Нидерст",
+        "book_publish": "BHV",
+        "book_new_price": 3041,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Разработка веб-приложений на WordPress",
+        "book_author": "Мессенленер Брайан",
+        "book_publish": "BHV",
+        "book_new_price": 1664,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "ASP.NET Core 3 с примерами на C# для профессионалов",
+        "book_author": "Фримен Адам",
+        "book_publish": "Вильямс",
+        "book_new_price": 6914,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "PowerShell для сисадминов",
+        "book_author": "Бертрам Адам",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1840,
+        "book_old_price": 2359,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Защита данных. От авторизации до аудита",
+        "book_author": "Андресс Джейсон",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1223,
+        "book_old_price": 1568,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Создаем динамические веб-сайты на PHP",
+        "book_author": "Татро Кевин",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 1840,
+        "book_old_price": 2359,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Теория вероятностей и математическая статистика в среде MATLAB. Учебное пособие",
+        "book_author": "Алибеков Игорь Юсупович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2140,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "HTTP/2 в действии",
+        "book_author": "Поллард Барри",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2651,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Методика моделирования динамики октокоптера",
+        "book_author": "Щекатуров Александр Михайлович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1710,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое",
+        "book_author": "Курт Уилл",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 2210,
+        "book_old_price": 2833,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Python. Лучшие практики и инструменты",
+        "book_author": "Яворски Михаил",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 2210,
+        "book_old_price": 2833,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Raspberry Pi 4. Официальное руководство для начинающих",
+        "book_author": "Халфакри Гарет",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2040,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Laravel 8. Быстрая разработка веб-сайтов на PHP",
+        "book_author": "Дронов Владимир Александрович",
+        "book_publish": "BHV: Профессиональное программирование",
+        "book_new_price": 1497,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Разработка Android-приложений на С# с использованием Xamarin с нуля",
+        "book_author": "Умрихин Евгений Дмитриевич",
+        "book_publish": "BHV: С нуля",
+        "book_new_price": 1130,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Атаки на веб и WordPress",
+        "book_author": "Нету автора",
+        "book_publish": "BHV: Библиотека журнала «Хакер»",
+        "book_new_price": 741,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Linux глазами хакера",
+        "book_author": "Фленов Михаил Евгеньевич",
+        "book_publish": "BHV: Глазами Хакера",
+        "book_new_price": 988,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Вероятностное программирование",
+        "book_author": "Колбин Вячеслав Викторович",
+        "book_publish": "Лань: Математика",
+        "book_new_price": 3096,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Восстановление данных. Практическое руководство",
+        "book_author": "Касперски Крис",
+        "book_publish": "BHV",
+        "book_new_price": 917,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Теория автоматического управления (с использованием MATLAB - SIMULINK). Учебное пособие",
+        "book_author": "Пащенко Федор Федорович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3955,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Обработка естественного языка. Python и spaCy на практике",
+        "book_author": "Васильев Юрий",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1229,
+        "book_old_price": 1576,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Python для финансовых расчетов",
+        "book_author": "Хилпиш Ив",
+        "book_publish": "Диалектика: Самоучитель",
+        "book_new_price": 6914,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Разработка и анализ компьютерных алгоритмов",
+        "book_author": "Ахо Альфред В.",
+        "book_publish": "Вильямс",
+        "book_new_price": 2592,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Научное программирование на Python",
+        "book_author": "Хилл Кристиан",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 3263,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "C#. Алгоритмы и структуры данных (+CD). СПО",
+        "book_author": "Тюкачев Николай Аркадьевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2321,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "C#. Основы программирования (+CD). СПО",
+        "book_author": "Тюкачев Николай Аркадьевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2566,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "C#. Программирование 2D и 3D векторной графики (+CD). СПО",
+        "book_author": "Тюкачев Николай Аркадьевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2566,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Алгоритмизация и программирование. Практикум. СПО",
+        "book_author": "Андрианова Анастасия Александровна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2011,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Организация беспроводных Ad Hoc и Hot Spot сетей в среде ОС Windows",
+        "book_author": "Заяц Анатолий Моисеевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2128,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Построение распределенных систем на базе WebSocket. Учебное пособие",
+        "book_author": "Хабаров Сергей Петрович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2003,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Практическое введение в язык программирования Си. СПО",
+        "book_author": "Солдатенко Илья Сергеевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1501,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Проектирование и разработка WEB-приложений. Введение в frontend и backend разработку. СПО",
+        "book_author": "Заяц Анатолий Моисеевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1475,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Введение в язык Си++",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1708,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Оформление программного кода",
+        "book_author": "Столяров Андрей Викторович",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1358,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Простой Python для опытных программистов",
+        "book_author": "Гаско Рик",
+        "book_publish": "Солон-пресс: Программирование",
+        "book_new_price": 1025,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Профессиональная разработка на Python",
+        "book_author": "Уилкс Мэттью",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 3467,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программируй & типизируй",
+        "book_author": "Ришкуция Влад",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1773,
+        "book_old_price": 2273,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Основы Python. Научитесь мыслить как программист",
+        "book_author": "Дауни Аллен Б.",
+        "book_publish": "Манн, Иванов и Фербер",
+        "book_new_price": 1156,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "SimInTech. Преобразователи автономных источников электроэнергии",
+        "book_author": "Калачёв Ю. Н.",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 626,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Принятие решений и феномен неопределенности. Учебное пособие",
+        "book_author": "Клименко Игорь Семенович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1789,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "JavaScript. Готовые программы. Учебное пособие",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1789,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "JavaScript. Готовые программы. СПО",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1590,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "TypeScript быстро",
+        "book_author": "Файн Яков",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1974,
+        "book_old_price": 2531,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "C# 8 и .NET Core. Разработка и оптимизация",
+        "book_author": "Прайс Марк Дж.",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 2735,
+        "book_old_price": 3507,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Разработка базы данных в Access. Учебное пособие",
+        "book_author": "Волик Мария Владимировна",
+        "book_publish": "Прометей",
+        "book_new_price": 419,
+        "book_old_price": 537,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Основы программирования на языке С. Учебное пособие",
+        "book_author": "Гагарина Лариса Геннадьевна",
+        "book_publish": "ИНФРА-М: Высшее образование. Бакалавриат",
+        "book_new_price": 2567,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Java. Быстрый старт",
+        "book_author": "Чан Джейми",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 807,
+        "book_old_price": 1035,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Python. Быстрый старт",
+        "book_author": "Чан Джейми",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 807,
+        "book_old_price": 1035,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Kubernetes. Лучшие практики. Построение эффективных приложений",
+        "book_author": "Бернс Брендан",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1209,
+        "book_old_price": 1550,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "C++ для профи",
+        "book_author": "Лоспинозо Джош",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 2581,
+        "book_old_price": 3309,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Интеллектуальные информационные системы и методы искусственного интеллекта",
+        "book_author": "Андрейчиков Александр Валентинович",
+        "book_publish": "ИНФРА-М: Высшее образование. Магистратура",
+        "book_new_price": 5873,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Современный скрапинг веб-сайтов с помощью Python",
+        "book_author": "Митчелл Райан",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 1765,
+        "book_old_price": 2263,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Инструментальные средства разработки программного обеспечения Системы Fossil",
+        "book_author": "Орещенков Игорь Сергеевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2585,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Эффективный Java. Тюнинг кода на Java 8, 11 и дальше",
+        "book_author": "Оукс Скотт",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 2567,
+        "book_old_price": 3291,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript",
+        "book_author": "Браун Итан",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 1598,
+        "book_old_price": 2049,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "gRPC. Запуск и эксплуатация облачных приложений. Go и Java для Docker и Kubernetes",
+        "book_author": "Индрасири Касун",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 1357,
+        "book_old_price": 1740,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Python. Сборник упражнений",
+        "book_author": "Стивенсон Бен",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 1223,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Совершенный алгоритм. Алгоритмы для NP-трудных задач",
+        "book_author": "Рафгарден Тим",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1494,
+        "book_old_price": 1915,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Стильный Java. Код, который работает всегда и везде",
+        "book_author": "Фаэлла Марко",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1923,
+        "book_old_price": 2465,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Внедрение зависимостей на платформе .NET",
+        "book_author": "Симан Марк",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 2567,
+        "book_old_price": 3291,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "От монолита к микросервисам",
+        "book_author": "Ньюмен Сэм",
+        "book_publish": "BHV",
+        "book_new_price": 1064,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Электроника. Занимательная электроника",
+        "book_author": "Ревич Юрий Всеволодович",
+        "book_publish": "BHV: Электроника",
+        "book_new_price": 1134,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Проекты с использованием контроллера Arduino",
+        "book_author": "Петин Виктор Александрович",
+        "book_publish": "BHV: Электроника",
+        "book_new_price": 1064,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Глубокое обучение. Легкая разработка проектов на Python",
+        "book_author": "Вейдман Сет",
+        "book_publish": "Питер: Бестселлеры O`Reilly",
+        "book_new_price": 2295,
+        "book_old_price": 2942,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Паттерны проектирования для C# и платформы .NET Core",
+        "book_author": "Арораа Гаурав",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 2649,
+        "book_old_price": 3396,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Структуры и алгоритмы обработки данных. Учебник для СПО",
+        "book_author": "Павлов Леонид Александрович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1503,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Численные методы и программирование. Учебное пособие для СПО",
+        "book_author": "Слабнов Виктор Дмитриевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3975,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Web-программирование на JavaScript. Учебное пособие для СПО",
+        "book_author": "Диков Андрей Валентинович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1649,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Технология разработки программного обеспечения. Учебное пособие для СПО",
+        "book_author": "Зубкова Татьяна Михайловна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2638,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "“Непрактичный” Python. Занимательные проекты для тех, кто хочет поумнеть",
+        "book_author": "Воган Ли",
+        "book_publish": "BHV",
+        "book_new_price": 1210,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Разработка приложений на Swift 5.1 и SwiftUI с нуля",
+        "book_author": "Казанский Александр Анатольевич",
+        "book_publish": "BHV: С нуля",
+        "book_new_price": 1064,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "WordPress с нуля",
+        "book_author": "Молочков Владимир Петрович",
+        "book_publish": "BHV: С нуля",
+        "book_new_price": 695,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Совершенный софт. Совершенный софт — совершенная",
+        "book_author": "Леве Джувел",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1753,
+        "book_old_price": 2247,
+        "book_discount": "-21%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Spark в действии. С примерами Java, Python и Scala",
+        "book_author": "Перрен Жан-Жорж",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 3467,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Изучаем Power Query. Наглядный подход к подключению и преобразованию данных из множества источников",
+        "book_author": "Фоукс Линда",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2040,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Еще более эффективный Agile",
+        "book_author": "Макконнелл Стив",
+        "book_publish": "Питер: IT для бизнеса",
+        "book_new_price": 1209,
+        "book_old_price": 1550,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Секреты Python Pro",
+        "book_author": "Хиллард Дейн",
+        "book_publish": "Питер: Для профессионалов",
+        "book_new_price": 1888,
+        "book_old_price": 2421,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Программирование на Python в примерах и задачах",
+        "book_author": "Васильев Алексей Николаевич",
+        "book_publish": "Бомбора: Российский компьютерный бестселлер",
+        "book_new_price": 1157,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Моделирование и оптимизация процессов управления в технологических системах. Учебник",
+        "book_author": "Колтунов Игорь Ильич",
+        "book_publish": "Кнорус: Магистратура",
+        "book_new_price": 1425,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Квантовые вычисления. Прикладной подход",
+        "book_author": "Хидари Джек Д.",
+        "book_publish": "ДМК-Пресс",
+        "book_new_price": 2040,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "JavaScript. Полное руководство",
+        "book_author": "Флэнаган Дэвид",
+        "book_publish": "Вильямс",
+        "book_new_price": 3456,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Проектирование информационных систем. Методы и средства структурно-функционального проектирования",
+        "book_author": "Гвоздева Татьяна Вадимовна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1492,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Структуры дан.в C#.Лин.и нелин.динамич.структ.СПО",
+        "book_author": "Симонова Елена Витальевна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1590,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Проектирование информационных систем. Стандартизация, техническое документирование информ. систем",
+        "book_author": "Гвоздева Татьяна Вадимовна",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1960,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Системы отображения информации. Дискретные индикаторы. Учебник для вузов",
+        "book_author": "Смирнов Виктор Михайлович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 3365,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Инфокоммуникационные системы. Протоколы,интерфейсы. Практикум. СПО",
+        "book_author": "Журавлев Антон Евгеньевич",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 1889,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Нечеткое моделирование и управление в технических системах. Учебное пособие для вузов",
+        "book_author": "Кудинов Юрий Иванович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 2638,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "На складе"
+    },
+    {
+        "book_title": "Мультимедийные технологии. Учебник для СПО",
+        "book_author": "Катунин Геннадий Павлович",
+        "book_publish": "Лань: Компьютеры и программное обеспечение",
+        "book_new_price": 4174,
+        "book_old_price": "Нету старой цены",
+        "book_discount": "-5%",
+        "book_state": "Ограничено"
+    },
+    {
+        "book_title": "Swift. Основы разработки приложений под iOS, iPadOS и macOS",
+        "book_author": "Усов Василий",
+        "book_publish": "Питер: Библиотека программиста",
+        "book_new_price": 1563,
+        "book_old_price": 2004,
+        "book_discount": "-22%",
+        "book_state": "На складе"
+    }
+]
