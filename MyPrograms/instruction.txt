@@ -1,2 +1,0 @@
-pyinstaller --onefile --icon="" main.py
-!--windowed
