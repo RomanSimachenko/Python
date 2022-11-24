@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  project:
+    image: tiktok__videos_downloader
+    container_name: tiktok_videos_downloader_c
+    build: .
+    command: python3 ./main.py
+    volumes:
+      - .:/app
+    env_file: .env
