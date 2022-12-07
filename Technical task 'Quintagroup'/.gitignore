@@ -1,0 +1,7 @@
+venv/
+env/
+
+.idea/
+
+*.sh
+setenv.sh
